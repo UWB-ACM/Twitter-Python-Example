@@ -14,7 +14,7 @@ python3 -m pip install -r requirements.txt
 Add a file called `config.ini`. This will contain the configuration for the
 bot.
 
-[Make a new bot using the Twitter API pages.][https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/]
+[Make a new bot using the Twitter API pages.](https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
 
 Edit the file with the following contents, fill in the blanks with your tokens:
 
