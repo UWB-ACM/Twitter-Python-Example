@@ -1,4 +1,6 @@
-# YetAnotherTwitterBot
+# Twitter Python Example (Barebones)
+
+A bot that demonstrates an example of the [Tweepy library][tweepy-lib] for Python.
 
 A bot that currently does nothing. Haven't figured out what I want to do yet.
 Might be used as an example.
@@ -41,3 +43,5 @@ python bot.py /path/to/config.ini
 ```
 
 The first argument must be the path to the `config.ini` file.
+
+[tweepy-lib]: http://www.tweepy.org/
