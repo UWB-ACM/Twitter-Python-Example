@@ -50,6 +50,7 @@ if __name__ == '__main__':
     # logs in using the user authorized
     # using demo from http://tweepy.readthedocs.io/en/v3.6.0/getting_started.html
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    # log in with a specific access token
     auth.set_access_token(access_token, access_token_secret)
 
     # get the api w/ the auth specified
